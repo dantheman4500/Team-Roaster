@@ -1,42 +1,42 @@
+<h1 align="center"> Employee Roster 👨‍💼  </h1>
 
-<h1 align="center"> Team Roaster  </h1>
-
-## Description
-🔍 A help web that help user make profile for their  team 
 
 ## Table of Contents
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
-## Installation
-First run npm I then rune node index" Side note: Make sure you run the rest file first run the rest,js by runing npm run rest"
 
-## Usage
-Team roaster project
+---
 
-## Contributing
-Daniel 
+### [Description](#Description)
 
-## Langues
-![badge](https://img.shields.io/badge/license-html-blue)
-![badge](https://img.shields.io/badge/license-css-blue)
-![badge](https://img.shields.io/badge/license-javascript-blue)
-![badge](https://img.shields.io/badge/license-bootstrap-blue)
-![badge](https://img.shields.io/badge/license-betterfonts-blue)
+### [Installation](#Installation)
 
 
-## Tests
-✏️ Yes their is mutliple test to make sure you are getting the expexted outcome. 
+### [Questions](#Questions)
+
+### [Github](#Github)
+
+---
+
+### <a name="Description"></a>Description
+
+Developers are often tasked with creating interfaces that make it easy for non-developers to view and interact with information stored in databases. Often these interfaces are known as Content Management Systems. In this homework assignment, your challenge is to architect and build a solution for managing a company's employees using node, inquirer, and MySQL.
 
 
-<br />
-:octocat: Find me on GitHub: [dantheman4500](https://github.com/dantheman4500)<br />
-<br />
+### <a name="Installation"></a>Installation
 
-Feel free to Eamil me : undefined<br /><br />
-_This README was generated with by [README-generator](https://github.com/dantheman4500/nods-js_auto_readme) 
-  
+1. install npm init -y to create a new .json file
+2. npm i
+3. make sure to run .sql file in mySQL workbench before running index.js so that tables are able to render correctly
+- 1. run mysql-u root -p 
+- 2. source db\schema.sql
+- 3. source db\seed.sql 
+4. run node index.js
+5. make sure index.js is connected to SQL before continuing
+6. run through prompts as required 
+
+### <a name="Questions"></a>Questions
+
+I can be reached at [danielromero4500@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=daielromero4500@gmail.com) with any questions regarding this project.
+
+### <a name="Github"></a>Github
+
+https://github.com/danthem4500
